@@ -1,4 +1,5 @@
-# TOUROPEDIA-Build and Deploy MERN Stack App TOUROPEDIA-A simple social media app that allows users to post
+# TOUROPEDIA
+Build and Deploy MERN Stack App TOUROPEDIA-A simple social media app that allows users to post
 interesting events that happened in their lives using Mongo,Express,React,Nodejs,Redux-Toolkit that has
 JWT-Auth, CRUD operation, Like, Pagination, Search and Comment functionality
 ![image (3)](https://user-images.githubusercontent.com/43754676/208227657-052f503d-ed66-4e72-bda2-b0bbc99a54b1.png)
